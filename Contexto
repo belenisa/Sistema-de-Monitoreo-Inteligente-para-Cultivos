@@ -1,0 +1,33 @@
+🏢 Contexto del Caso: AgroFértil S.A.
+AgroFértil S.A. es una empresa del rubro agrícola que se dedica principalmente a la producción y distribución de insumos para la agricultura, como fertilizantes, semillas y productos fitosanitarios. La empresa ha experimentado un crecimiento sostenido en los últimos años, lo que ha generado la necesidad de modernizar y digitalizar sus procesos internos para mejorar la eficiencia, trazabilidad y toma de decisiones.
+
+Actualmente, AgroFértil S.A. enfrenta desafíos propios del crecimiento empresarial, tales como:
+
+Procesos manuales y desconectados entre áreas como ventas, logística, inventario y atención al cliente.
+
+Dificultades para obtener información en tiempo real, afectando la planificación y la respuesta a demandas del mercado.
+
+Necesidad de mejorar la calidad del servicio al cliente y optimizar la gestión de stock.
+
+🎯 Objetivo del Proyecto de Desarrollo de Software
+El objetivo central del proyecto es desarrollar un sistema de información integrado que permita automatizar, centralizar y digitalizar los procesos clave de AgroFértil S.A. Este sistema debe cumplir con criterios de eficiencia, seguridad, escalabilidad y facilidad de uso.
+
+🧩 Componentes Clave del Sistema
+Gestión de Clientes y Pedidos: Registro de clientes, historial de compras, emisión de pedidos y seguimiento de entregas.
+
+Inventario y Almacén: Control de stock en tiempo real, alertas de reposición, movimientos entre bodegas.
+
+Ventas y Facturación: Generación de cotizaciones, facturas y reportes de ventas.
+
+Reportes Gerenciales: Tableros de control para toma de decisiones, visualización de KPIs y estadísticas de rendimiento.
+
+Seguridad y Control de Acceso: Roles y permisos diferenciados para cada tipo de usuario (administrador, vendedor, bodeguero, etc.).
+
+📈 Impacto Esperado
+Reducción de errores por ingreso manual de datos
+
+Mejora en la gestión de inventario y tiempos de respuesta al cliente
+
+Aumento de la productividad del equipo
+
+Mayor control sobre las operaciones y cumplimiento normativo
