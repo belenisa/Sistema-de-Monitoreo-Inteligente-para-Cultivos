@@ -1,15 +1,24 @@
------Requisitos Funcionales-----
-
-Registro automatizado de clima y humedad del suelo
-Alertas tempranas de plagas mediante
-imágenes de drones
-Cumplimiento de protección para
-datos de proveedores
-Generación de informes para auditorías.
-App móvil offline (para zonas rurales sin internet)
-Reportes y estadísticas operacionales Latencia de internet
-Notificaciones push para alertas críticas
-Exportación de planos excel/PDF Clima
-Integración con sensores de campo
-Registro de actividades de riego y fertilización
-Acceso multiusuario con niveles de permisos
+                                                                                      -----Requisitos Funcionales-----
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+|R-N |      Nombre del Requerimiento  	|	Tipo Requerimiento  |	Actores y Roles Relacionados |							Descripción corta del requerimiento  	               |					      Criterio de Aceptación					 	    |		Estado	|
+-----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF01|			 Gestión de Clientes        |      Funcional			|   Administrador, Vendedor		 |  Registrar, editar, eliminar y consultar información de clientes. |  El sistema permite operaciones CRUD sobre clientes  |	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF02|Registro y Seguimiento de Pedidos |      Funcional			|     Vendedor, Cliente		 	 	 |					   Registrar pedidos y consultar su estado							 |	 Se puede crear un pedido y visualizar su estado. 	|	Pendiente	|
+|----|---------------------------------.|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF03|     Control de Inventariol			  |      Funcional			|			    Bodeguero				 		 | 			Controlar el stock de productos, alertas por bajo stock			 |		El sistema actualiza el stock y muestra alertas.	|	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF04|       Gestión de Productos			  |      Funcional			|					Administrador				 |				Registrar, editar y consultar productos agrícolas					 |		 Se pueden gestionar productos en el sistema.		  |	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF05|     Facturación Electrónica		  |      Funcional			|		Administrador, Vendedor		 |					Generar facturas electrónicas de los pedidos.						 | El sistema genera una factura válida y descargable.	|	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF06|       Reportes de Gestiónl		    |      Funcional			|						Gerencia					 |					Obtener reportes de ventas, stock y clientes						 |	 El sistema muestra reportes claros y exportables.	|	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF07|Accesos con Perfiles Diferenciados|      Funcional			|			Todos los usuarios			 |						Asignar permisos según el tipo de usuario  						 |      Cada usuario ve solo lo que le corresponde.			|	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF08| Consulta de Historial de Pedidos	|      Funcional			| 					Cliente						 |					Consultar el historial de pedidos realizados 						 |			El cliente puede ver su historial completo. 		|	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF09|        Gestión de Entregas			  |      Funcional			|		 Bodeguero, Repartidor		 |						Asignar entregas y actualizar su estado  							 |	El sistema permite registrar y actualizar entregas.	|	Pendiente	|
+|----|----------------------------------|---------------------|------------------------------|-------------------------------------------------------------------|------------------------------------------------------|-----------|
+|RF10|    Integración con App Móvil		  |      Funcional			|					 Cliente			 		 	 |		Permitir hacer pedidos y consultar productos desde una app.		 |			El cliente puede operar desde una app móvil.	  |	Pendiente	|
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
