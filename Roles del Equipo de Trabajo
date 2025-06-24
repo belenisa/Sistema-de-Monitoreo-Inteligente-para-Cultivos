@@ -1,0 +1,21 @@
+----Roles del Equipo de Trabajo----
+
+Rol	Responsabilidades
+
+Product Owner:	Representa al cliente (AgroFértil S.A), define y prioriza los requerimientos.
+
+Scrum Master	:Facilita el proceso ágil, remueve obstáculos, vela por el cumplimiento de Scrum.
+
+Desarrollador :Backend	Implementa la lógica del sistema, API REST, integración con base de datos.
+
+Desarrollador :Frontend	Desarrolla la interfaz de usuario, diseño responsivo y consumo de APIs.
+
+Analista de Requisitos	:Levanta requerimientos, documenta procesos, valida con stakeholders.
+
+Tester / QA	:Diseña y ejecuta pruebas funcionales, de integración y de usuario.
+
+Diseñador UI/UX:	Define la experiencia de usuario y el diseño visual de la plataforma.
+
+Administrador de Base de Datos (DBA:)	Diseña y optimiza la base de datos, asegura integridad de datos.
+
+DevOps / Infraestructura:	Automatiza el despliegue, mantiene entornos, monitorea la infraestructura.
